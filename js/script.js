@@ -3,11 +3,11 @@ window.addEventListener('load', ()=>{
   const pads = document.querySelectorAll('.pads div');
   const visual = document.querySelector('.visual');
   const colours = [
-      "#60d394",
-      "#d36060",
-      "#c060d3",
-      "#d3d160",
-      "#606bd3",
+      "#febe1f",
+      "#8abdd2",
+      "#ff800e",
+      "#acd366",
+      "#003e74",
       "#60c2d3"
   ];
 
